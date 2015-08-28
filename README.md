@@ -8,7 +8,7 @@ Our applications have been using sqlite3 in development, but to deploy to Heroku
   gem 'pg'
 ```
 
-Run bundle install. If you get an error, you may need to install Postgres on your system. Copy the following code into your terminal: `
+Run bundle install. If you get an error, you may need to install Postgres on your system. Copy the following code into your terminal: `sudo apt-get install postgresql`
 
 ### environment.rb  - Setup an ActiveRecord Connection
 In the config directory. 
