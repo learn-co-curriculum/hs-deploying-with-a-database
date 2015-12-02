@@ -37,3 +37,5 @@ Remember to add, commit, and push your changes to github and heroku. Sit back, r
 ### Common Bugs
 
 + We only have `pry` in our development group, so make sure it's not required in your application controller before you push to heroku. 
+
+<a href='https://learn.co/lessons/hs-deploying-with-a-database' data-visibility='hidden'>View this lesson on Learn.co</a>
